@@ -1,0 +1,44 @@
+[
+    {
+      "img": "https://i.ibb.co/6tcGSjp/Pura-Ulun-Danu-Temple-on-lake-Brataan.jpg",
+      "name": "Uluwatu Temple",
+      "price": "300",
+      "travelPeriod": "3 days",
+      "description": "Uluwatu Temple, Bali, Indonesia  ia A magical blend of culture, people, nature, activities, weather, culinary delights, nightlife, and beautiful accommodation."
+    },
+    {
+      "img": "https://i.ibb.co/jWdymwC/opera-house.jpg",
+      "name": "Sydney Opera House",
+      "price": "500",
+      "travelPeriod": "5 days",
+      "description": "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings."
+    },
+    {
+      "img": "https://i.ibb.co/1XGb0QY/india-best-places-to-visit-agra.jpg",
+      "name": "Taj Mahal ",
+      "price": "100",
+      "travelPeriod": "2 days",
+      "description": "The Taj Mahal is widely considered one of the most beautiful buildings ever created. The exquisite marble structure in Agra, India, is a mausoleum, an enduring monument to the love of a husband for his favorite wife."
+    },
+    {
+      "img": "https://i.ibb.co/tMyhrTm/Floating-mosque-in-Melaka-e1567346826958.jpg",
+      "name": "Floating Mosque",
+      "price": "250",
+      "travelPeriod": "2 days",
+      "description": "Masjid Selat Melaka is a modern mosque in a hybrid Arab/Malay style on a reclaimed island (Pulau Melaka) close to the town centre. At high tide the mosque appears to be floating above the sea and it has been nicknamed the Floating Mosque."
+    },
+    {
+      "img": "https://i.ibb.co/DDRNJyw/kuala-lampur.jpg",
+      "name": "Kuala Lumpur",
+      "price": "400",
+      "travelPeriod": "2/3 days",
+      "description": "Kuala Lumpur is the capital of Malaysia. Its modern skyline is dominated by the 451m-tall Petronas Twin Towers, a pair of glass-and-steel-clad skyscrapers with Islamic motifs."
+    },
+    {
+      "img": "https://i.ibb.co/6sCHZK4/banner5.jpg",
+      "name": "Dubai City",
+      "price": "450",
+      "travelPeriod": "3 days",
+      "description": "Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture and a lively nightlife scene. Burj Khalifa, an 830m-tall tower, dominates the skyscraper-filled skyline."
+    }
+  ]

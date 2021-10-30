@@ -1,0 +1,12 @@
+.service-part{
+    border: 1px solid lightseagreen;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.service-part img{
+    width: 100%;
+    height: 300px;
+    border-radius: 10px;
+  
+}
