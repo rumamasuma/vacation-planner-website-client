@@ -1,6 +1,6 @@
 # Project name "Ruksat vacation planner"
 
-## My website live link :
+## My website live link : https://amazing-thompson-6127b3.netlify.app/
 
 ## Its a vacation planner website
 - In this website you will know the following criteria
