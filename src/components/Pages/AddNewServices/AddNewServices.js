@@ -20,7 +20,7 @@ const AddNewServices = () => {
 
      return (
       <div className ='add-services m-5'>
-      <h2>Please Add New Services</h2>
+      <h2 className='heading'>Please Add New Services</h2>
       <form onSubmit={handleSubmit(onSubmit)}>
       <input {...register("img") } placeholder='img url' />   
       <input {...register("Name") } placeholder='Package-Name' />

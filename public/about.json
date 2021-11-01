@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/gMV2gCN/ocean-cruises.jpg",
+      "title" : "CRUISE COLLECTIONS",
+      "description": "Booking a Cruise Early ... Many cruise lines come out with their best fares when itineraries first go on sale, and then raise the rates as the ships sell out."
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/9YDDZm7/all-inclusive-hero-1.jpg",
+      "title" : "AL INCLUSIVE DEALS",
+      "description": "At an all-inclusive resort, you pay one flat price for your room, all gourmet meals and drinks (including premium cocktails). But, that’s just the beginning. Rolled into the deal are a host of activities, like water sports."
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/9rxLWx1/family-vacations.jpg",
+      "title" : "FAMILY COLLECTIONS",
+      "description": "We know how precious family time is, which is why we take care of everything and everyone. Our summer resorts in Greece, Turkey and Sardinia are ."
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/zV7s5fg/colllections.jpg",
+      "title" : "DESTINATION WEEDINGS",
+      "description": "a destination wedding and the honeymoon are celebrated in the same venue. ... Every wedding detail, from the setting to the officiant to the flowers and the cake, can be arranged at the destination to suit your taste."
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/XsKwpVL/seaside-scenery-coconut-trees-hammocks-blue-sea-sky-aircraft-beach-wallpaper-preview.jpg",
+      "title" : "LAST MINUTE DEALS",
+      "description": "Last Minute. Book Your Flights Now with KAYAK and Save 20% or More on Flights. Compare Hundreds of Flights and Travel Deals Worldwide. Find the Best Deal with KAYAK. Flexible Booking Options."
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/drv7Jnv/luxary.jpg",
+      "title" : "LUXARY COLLECTIONS",
+      "description": "The Luxury Collection®, part of Marriott International, Inc., is comprised of world-renowned hotels and resorts offering unique, authentic experiences that evoke lasting, treasured memories."
+    }
+  ]

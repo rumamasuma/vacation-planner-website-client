@@ -1,3 +1,10 @@
 .footer{
     background-color: black;
 }
+.icon {
+  color:cornflowerblue;
+}
+.icon i {
+    font-size: 20px;
+    padding-right: 10px;
+}

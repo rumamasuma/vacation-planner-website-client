@@ -10,8 +10,8 @@ import Home from './components/Pages/Home/Home/Home';
 import NotFound from './components/Pages/Home/NotFound/NotFound';
 import Login from './components/Pages/Login/Login/Login';
 import PrivateRoute from './components/Pages/Login/PrivateRoute/PrivateRoute';
-
-import Tour from './components/Pages/Tour/Tour';
+import ManageAllBooking from './components/Pages/ManageAllBooking/ManageAllBooking';
+import MyBookings from './components/Pages/MyBookings/MyBookings';
 import AuthProvider from './contexts/AuthProvider';
 
 function App() {
@@ -31,18 +31,21 @@ function App() {
        <Route path='/about'>
          <AboutUs></AboutUs>
        </Route>
-       <Route path='/tour'>
-        <Tour></Tour>
-       </Route>
        <Route path='/login'>
        <Login></Login>
        </Route>
-       <PrivateRoute path="/booking/:serviceId">
+       <PrivateRoute path="/services/booking/:serviceId">
          <Booking></Booking>
        </PrivateRoute>
-       <Route path ="/addNewServices">
+       <PrivateRoute path= '/booking'>
+         <MyBookings></MyBookings>
+       </PrivateRoute>
+       <PrivateRoute path='/allBooking'>
+         <ManageAllBooking></ManageAllBooking>
+       </PrivateRoute>
+       <PrivateRoute path ="/addNewServices">
        <AddNewServices></AddNewServices>
-       </Route>
+       </PrivateRoute>
      <Route path ='*'>
     <NotFound></NotFound>
   </Route>

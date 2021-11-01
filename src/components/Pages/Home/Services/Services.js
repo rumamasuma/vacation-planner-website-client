@@ -15,9 +15,9 @@ useEffect(() =>{
     return (
         <div className ='container m-4 p-3'>
             <h2> Ruksat Vacation Services</h2>
-            <div className="row  ">
+            <div className="row row-cols-1 row-cols-md-3 g-4 ">
                 {
-                services.map(service => <Service
+                services.map((service)=> <Service key={service._id}
                 service={service}
                 ></Service>)
 
