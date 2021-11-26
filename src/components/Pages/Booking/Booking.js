@@ -4,16 +4,16 @@ import axios from 'axios';
 import { useForm } from "react-hook-form";
 import useAuth from '../../../hooks/useAuth';
 import './Booking.css';
-import { Link } from 'react-router-dom';
 
 
-const Booking = () => {
- const {user} = useAuth();
+
+   const Booking = () => {
+   const {user} = useAuth();
     const {serviceId} = useParams();
     const [serviceBookings , setServiceBookings] = useState({});
 
      useEffect(() =>{
-     fetch(`http://localhost:5000/services/${serviceId}`)
+     fetch(`https://tranquil-reef-90336.herokuapp.com/services/${serviceId}`)
      .then(res => res.json())
      .then(data => {
         setServiceBookings(data);
@@ -24,7 +24,7 @@ const Booking = () => {
 
  const onSubmit = data =>{
      console.log(data);
-     axios.post('http://localhost:5000/booking', data)
+     axios.post('https://tranquil-reef-90336.herokuapp.com/booking', data)
      .then(res =>{
         //  console.log(res);
         if(res.data.insertedId){

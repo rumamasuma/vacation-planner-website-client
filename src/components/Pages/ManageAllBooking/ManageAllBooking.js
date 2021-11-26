@@ -6,14 +6,14 @@ const ManageAllBooking = () => {
     const [allBookings , setAllBookings] = useState([]);
 
     useEffect(() =>{
-        fetch('http://localhost:5000/booking')
+        fetch('https://tranquil-reef-90336.herokuapp.com/booking')
         .then(res=> res.json())
         .then(data => setAllBookings(data));
     },[])
 
     // delete button
     const handleDelete= id =>{
-        const url = `http://localhost:5000/booking/${id}`;
+        const url = `https://tranquil-reef-90336.herokuapp.com/booking/${id}`;
         fetch(url,{
             method : 'DELETE'
         })
