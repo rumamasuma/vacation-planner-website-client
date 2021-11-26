@@ -1,8 +1,16 @@
-# Getting Started with Create React App
+# Project name "Ruksat vacation planner"
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## My website live link : https://amazing-thompson-6127b3.netlify.app/
+## My website firebase live link :https://ruksat-vacation-planner.web.app/
 
-## Available Scripts
+## Its a vacation planner website
+- In this website you will know the following criteria
+- Ruksat Vacation Planner's most desiring services
+- Their upcoming winter vacation offer
+- Lots of exclusive collections
+- Online fast & comfort booking process
+- clients satisfactions 
+- 500+ destinations with lots of collections  
 
 In the project directory, you can run:
 
